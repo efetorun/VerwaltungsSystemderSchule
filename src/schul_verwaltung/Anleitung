@@ -1,0 +1,30 @@
+Kodieren Sie ein Plattform,der zu einer Verwaltung einer Schule gehört.
+
+1. In diesem Program sollten die Registierierung der Schüler und der Lehrer gemacht werden.Aufzeichnungen sollten unten
+genannten Daten enthalten.
+
+Lehrer : Vor_Nach Name, alt, branche, und id nummer usw enthalten sollten
+Schüler: Vor_Nach Name, alt, nummer der Schule des Kindes ,daten zur klasse usw. enthalten sollten.
+
+2.Wenn das Programm eingeschaltet wird, sollte so ein Menu,das unten steht, gesehen werden.
+
+====================================
+Schüler und Lehrer Verwaltungspanel
+====================================
+1. Schüler Transaktionen
+2. Lehrer  Transaktionen
+Q. Abmelden
+
+3. Gemmäß der ausgewählten Person wird das unten Standene Menu gezeigt.
+
+=============Transaktionen============
+1. Hinfügen
+2. Nach Suchen
+3. Listing
+4. Löschen(Radieren)
+Q. Abmelden
+
+4. in dem Menü,das Transaktionen heißt,sollten nach der Transaktion transaktionen beispielweiße hinfügen, löschen und
+nachsuchen mit id-Nummer,Liste der ganzen Personen,die sich in der Schule befinden...usw.. der Person,die in dem
+vorherigen Menu ausgewählt worden ist,  gemacht werden.Darüber hinaus sollte man nicht nur vorheriges Menu zurück springen
+sondern auch abmelden können.
